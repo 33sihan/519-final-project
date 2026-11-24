@@ -1,0 +1,16 @@
+# large scraped data (over GitHub's 100 MB limit / too big to version)
+harvest.csv
+harvest.csv.done
+harvest_balanced.csv
+
+# old / experimental model weights (model.pt is the submitted model)
+model_balanced.pt
+model_cls.pt
+model_v2.pt
+runs/
+experiments/
+build_memory.py
+
+# logs and caches
+*.log
+__pycache__/
